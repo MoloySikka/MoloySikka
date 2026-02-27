@@ -1,4 +1,4 @@
-- Hi, I’m @MoloySikka
+hi, I’m @MoloySikka
 
 <!---
 MoloySikka/MoloySikka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
